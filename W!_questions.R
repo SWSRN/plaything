@@ -1,9 +1,11 @@
+print('An added line')
+
 print('W1 Q1 r-project.org')
 print('W! Q2 Every year')
+print('W1 Q5 f[3]') 
 print('W1 Q3 install.packages("sweSCB")')
 print('W1 Q4 hist(f)')
-print('W1 Q5 f[3]') 
-print('W1 Q6 f[3] <-2.3  WRONG???')
+print('W1 Q6 f[3] <-2.3  WRONG?? !!')
 print('W1 Q7')
  5:15
 seq(5,15,1)
