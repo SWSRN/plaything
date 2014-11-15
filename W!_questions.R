@@ -6,6 +6,7 @@ print('W1 Q5 f[3]')
 print('W1 Q3 install.packages("sweSCB")')
 print('W1 Q4 hist(f)')
 print('W1 Q6 f[3] <-2.3  WRONG?? !!')
+print('blah, blah, blah.')
 print('W1 Q7')
  5:15
 seq(5,15,1)
